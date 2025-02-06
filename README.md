@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Luong Ngo from Viet Nam</h1>
-I'm a Back-End and Database Developer with a solid familiarity with .NET. I also have extensive experience working with Oracle, specializing in crafting efficient stored functions. Currently, I'm leveraging my skills in the dynamic FinTech domain, building scalable, high-performance systems and data-driven solutions. I'm always excited to learn, explore new technologies, and continuously improve my skills.
+I'm Fullstack Developer with 2 years of experience, I consistently tackle and resolve complex issues within systems by analyzing and translating them into efficient code logic swiftly and effectively.
+Currently, I am employed at a fintech company specializing in securities, where I have acquired valuable expertise in implementing core securities systems and engaging with Vietnam's state-run securities exchanges.
+I always prioritize creativity merged with my personal skill set to work collaboratively and effectively within corporations and teams.
 
 <h3>📖 About me:</h3>
 
