@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Luong Ngo from Viet Nam</h1>
-I'm Fullstack Developer with 2 years of experience, I consistently tackle and resolve complex issues within systems by analyzing and translating them into efficient code logic swiftly and effectively.
-Currently, I am employed at a fintech company specializing in securities, where I have acquired valuable expertise in implementing core securities systems and engaging with Vietnam's state-run securities exchanges.
-I always prioritize creativity merged with my personal skill set to work collaboratively and effectively within corporations and teams.
+<p>I'm Fullstack Developer with 2 years of experience, I consistently tackle and resolve complex issues within systems by analyzing and translating them into efficient code logic swiftly and effectively.</p>
+<p>Currently, I am employed at a fintech company specializing in securities, where I have acquired valuable expertise in implementing core securities systems and engaging with Vietnam's state-run securities exchanges.</p>
+<p>I always prioritize creativity merged with my personal skill set to work collaboratively and effectively within corporations and teams.</p>
 
 <h3>📖 About me:</h3>
 
